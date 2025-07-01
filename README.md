@@ -1,4 +1,4 @@
-AIML Practise Excercises
+AIML Practise Excercises (Using Colab)
 
 https://fastapi.tiangolo.com/ - building APIs with Python
 
